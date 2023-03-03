@@ -1,8 +1,8 @@
-package Ejercicio16;
+package Ejercicio17;
 
 import java.util.Scanner;
 
-public class Ejercicio16 {
+public class Ejercicio17 {
     public static void main(String[] args) {
         // Nombrar las variables
         double RadioCirculo,  AreaCirculo, PerimetroCirculo;
